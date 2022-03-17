@@ -11,6 +11,7 @@ Input Image:
 <img src="https://github.com/saurabhp369/Kmeans_image_segmentation/blob/main/Q4image.png">
 
 Output for k = 4
+
 Output Image:
 
 <img src="https://github.com/saurabhp369/Kmeans_image_segmentation/blob/main/k_means.png">
